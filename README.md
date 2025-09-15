@@ -62,6 +62,6 @@ All figures are located under [`results/`](digital-communication-bpsk/results). 
 | Q6 – Modulation/Downconversion | Q6C.jpg | Spectrum after carrier modulation |
 
 ## 📚 Documentation
-- Project questions: `docs/Digital_Communication_bpsk_Project_Questions.pdf`
-- Written Answers: `docs/Digital_Communication_bpsk_Project_Answers.pdf`
+- Project questions: [`Digital_Communication_bpsk_Project_Questions.pdf`](digital-communication-bpsk/docs/Digital_Communication_bpsk_Project_Questions.pdf)
+- Written Answers: [`Digital_Communication_bpsk_Project_Answers.pdf`](digital-communication-bpsk/docs/Digital_Communication_bpsk_Project_Questions.pdf)
 
