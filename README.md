@@ -7,7 +7,7 @@ A MATLAB project implementing a digital communication chain with **BPSK** modula
 digital-communication-bpsk/
 ├─ docs/
 │  ├─ Digital_Communication_bpsk_Project_Questions.pdf   # assignment
-│  └─ Digital_Communication_bpsk_Project_Answers.pdf                                          # written answers
+│  └─ Digital_Communication_bpsk_Project_Answers.pdf     # written answers
 ├─ src/
 │  ├─ DigitalCommunicationFinal.m
 │  ├─ TX.m
