@@ -24,6 +24,10 @@ digital-communication-bpsk/
    ├─ Q5E.jpg
    └─ Q6C.jpg
 ```
+## ⚙️ Requirements
+- MATLAB R2020a or later  
+- Built-in functions such as `audioread`, `audiowrite`, `toeplitz`  
+- Example audio files placed in `data/raw` (airplane, cafe, city, vacuumcleaner)  
 
 ## ▶️ How to Run
 1. Open MATLAB and set the **Current Folder** to the repository root.
