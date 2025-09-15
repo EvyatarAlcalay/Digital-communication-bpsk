@@ -28,10 +28,12 @@ digital-communication-bpsk/
 ## ▶️ How to Run
 1. Open MATLAB and set the **Current Folder** to the repository root.
 2. Add source paths (once per session):
-   ```matlab
+
+```
 addpath(genpath('src'));
 addpath('helpers');
-   ```
+```
+
 3. Open `src/DigitalCommunicationFinal.m`.
 4. Run the entire script, or comment/uncomment blocks as indicated inside the file.
 
