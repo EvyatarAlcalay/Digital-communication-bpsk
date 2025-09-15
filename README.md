@@ -2,7 +2,7 @@
 
 A MATLAB project implementing a digital communication chain with **BPSK** modulation over **AWGN** and **audio** channels: pulse shaping, matched filtering, synchronization, and BER evaluation.
 
-## Repository Structure
+## 📂 Repository Structure
 ```
 digital-communication-bpsk/
 ├─ docs/
@@ -25,7 +25,7 @@ digital-communication-bpsk/
    └─ Q6C.jpg
 ```
 
-## How to Run
+## ▶️ How to Run
 1. Open MATLAB and set the **Current Folder** to the repository root.
 2. Add source paths (once per session):
    ```matlab
