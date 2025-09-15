@@ -35,9 +35,20 @@ addpath('helpers');
 ```
 
 3. Open `src/DigitalCommunicationFinal.m`.
-4. Run the entire script, or comment/uncomment blocks as indicated inside the file.
+4. The script is organized section-by-section (cells starting with `%%`). Run them in order using **Run Section** (`Ctrl+Enter`).
 
-> Use `TX.m` and `RX.m` for transmission/reception logic. `helpers/` contains utilities for audio channel simulation and text/bitstream conversion.
+
+### 📑 Mapping of Sections in DigitalCommunicationFinal.m
+- **Section 1**: Init and parameters
+- **Section 2**: TX – pulse shaping
+- **Section 3**: Channel – AWGN
+- **Section 4**: RX – matched filter and BER
+- **Section 5**: Synchronization
+- **Section 6**: Modulation & Downconversion
+- **Section 7**: Audio channel simulation
+
+> Use `TX.m` and `RX.m` for transmission/reception logic.
+> `helpers/` contains utilities for audio channel simulation and text/bitstream conversion.
 
 ## 📈 Results
 All figures are located under `results/`. See also the detailed explanations in [`docs/Digital_Communication_bpsk_Project_Answers.pdf`](docs/Digital_Communication_bpsk_Project_Answers.pdf).
