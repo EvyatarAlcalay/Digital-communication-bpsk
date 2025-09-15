@@ -39,7 +39,7 @@ addpath('helpers');
 
 > Use `TX.m` and `RX.m` for transmission/reception logic. `helpers/` contains utilities for audio channel simulation and text/bitstream conversion.
 
-## Results
+## 📈 Results
 All figures are located under `results/`. See also the detailed explanations in [`docs/Digital_Communication_bpsk_Project_Answers.pdf`](docs/Digital_Communication_bpsk_Project_Answers.pdf).
 
 | Question | Figures | Notes |
@@ -49,3 +49,8 @@ All figures are located under `results/`. See also the detailed explanations in 
 | Q4 – Matched Filter & BER | Q4A.jpg, Q4C.jpg, Q4E.jpg | Filter response, BER vs. SNR |
 | Q5 – Synchronization | Q5E.jpg | Sync symbol correlation, nopt |
 | Q6 – Modulation/Downconversion | Q6C.jpg | Spectrum after carrier modulation |
+
+## 📚 Documentation
+- Project questions: `docs/Digital_Communication_bpsk_Project_Questions.pdf`
+- Written Answers: `docs/Digital_Communication_bpsk_Project_Answers.pdf`
+
