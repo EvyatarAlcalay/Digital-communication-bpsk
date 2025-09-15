@@ -51,7 +51,7 @@ addpath('helpers');
 > `helpers/` contains utilities for audio channel simulation and text/bitstream conversion.
 
 ## 📈 Results
-All figures are located under `results/`. See also the detailed explanations in [`docs/Digital_Communication_bpsk_Project_Answers.pdf`](digital-communication-bpsk/docs/Digital_Communication_bpsk_Project_Answers.pdf).
+All figures are located under [`results/`](digital-communication-bpsk/results). See also the detailed explanations in [`docs/Digital_Communication_bpsk_Project_Answers.pdf`](digital-communication-bpsk/docs/Digital_Communication_bpsk_Project_Answers.pdf).
 
 | Question | Figures | Notes |
 |---|---|---|
